@@ -42,6 +42,23 @@
 
 <div align="center">
 
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=AhmedMahmoud&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<!-- GitHub Hits -->
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/a7medma7moudmostafa&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false" alt="GitHub Hits"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMahmoud&layout=compact&theme=react&hide=html,css" alt="Top Languages"/>
+
+
+</div>
+<hr>
+
+
+
+<div align="center">
+
 ### 💻 *"Code. Learn. Improve. Repeat."*
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&height=80&color=gradient&text=Thanks%20for%20Visiting%20My%20Profile!&section=footer&fontSize=24&fontAlign=50" width="100%"/>
