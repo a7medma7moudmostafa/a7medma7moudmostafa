@@ -44,7 +44,7 @@
 
 ### 💻 *"Code. Learn. Improve. Repeat."*
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=gradient&text=Thanks%20for%20Visiting%20My%20Profile!&section=footer&fontSize=24&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=80&color=gradient&text=Thanks%20for%20Visiting%20My%20Profile!&section=footer&fontSize=24&fontAlign=50" width="100%"/>
 
 </div>
 
