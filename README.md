@@ -5,7 +5,8 @@
 <div align="center">
 
 <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" width="100%" />
-
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ahmed+%F0%9F%91%8B;Electrical+Engineering+Student+%E2%9A%A1;Web+Developer+%26+Problem+Solver+%F0%9F%92%BB" />
 
 </div>
@@ -48,17 +49,11 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
+## 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=a7medma7moudmostafa&show_icons=true&theme=shadow_green&cache_seconds=86400" />
+![Streak](https://streak-stats.demolab.com?user=a7medma7moudmostafa&theme=dark)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a7medma7moudmostafa&theme=github_dark)
 
-<img src="https://streak-stats.demolab.com?user=a7medma7moudmostafa&theme=shadow_green&cache_seconds=86400" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medma7moudmostafa&layout=compact&theme=shadow_green&cache_seconds=86400" />
-
-
-</div>
 
 ---
 
