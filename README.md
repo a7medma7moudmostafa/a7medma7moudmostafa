@@ -61,8 +61,10 @@
 
 ---
 
-## ✍️ Random Dev Quote
+<div align="center">
+<p>## ✍️ Random Dev Quote</p>
 <img src="https://quotes-github-readme.vercel.app/api?theme=radical" />
+</div>
 
 ---
 
