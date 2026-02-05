@@ -13,6 +13,24 @@
 
 ---
 
+<h3 align="center">🌐 Connect with me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-mahmoud-74983a31a" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="36" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/a7med_ma7moud" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="36" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/share/1DQnJbbvvn/" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" width="36" />
+  </a>
+</p>>
+
+---
+
 ## 💫 About Me
 - 🎓 Electrical Engineering Student  
 - 💻 Programmer & Web Developer  
