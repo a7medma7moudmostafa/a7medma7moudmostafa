@@ -52,6 +52,9 @@
 ## 📊 GitHub Activity
 
 ![Streak](https://streak-stats.demolab.com?user=a7medma7moudmostafa&theme=dark)
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=a7medma7moudmostafa&theme=github-dark)
+
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a7medma7moudmostafa&theme=github_dark)
 
 
